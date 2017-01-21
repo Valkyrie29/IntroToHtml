@@ -1,0 +1,14 @@
+#titulo1{
+    color:dodgerblue;
+    font-size: 30px;
+}
+#titulo2 {
+    color:limegreen;
+    font-size: 20px;
+}
+.titulos_secundarios{
+    color: deeppink;
+}
+img{
+    width:150px;
+}
